@@ -1,0 +1,26 @@
+.main-tables--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.main-table {
+    max-width: 465px;
+}
+
+.currency-table--title , .commission-table--title{
+    margin-left: 70px;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider{
+    justify-content: center;
+}
+
