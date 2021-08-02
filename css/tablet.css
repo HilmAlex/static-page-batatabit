@@ -21,6 +21,7 @@
 }
 
 .plans-container--slider{
+    overflow-x: hidden;
     justify-content: center;
 }
 
